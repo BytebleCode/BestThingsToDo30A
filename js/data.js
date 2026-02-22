@@ -245,10 +245,10 @@ const CATEGORIES = [
         url: "https://www.gulfplace.com"
       },
       {
-        name: "The Hub 30A",
-        photo: "images/TheHub.jpg",
-        description: "Live music venue and community gathering spot with food trucks and good vibes.",
-        url: "https://thehub30a.com"
+        name: "The Big Chill",
+        photo: "images/big-chill.webp",
+        description: "Family-friendly hangout with lots of food options, shopping, and a lively atmosphere in Prominence.",
+        url: "https://thebigchill.com/"
       },
       {
         name: "Snorkel the Reefs",
