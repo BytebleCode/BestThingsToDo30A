@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: best-things-30a
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
