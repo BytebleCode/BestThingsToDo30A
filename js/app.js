@@ -7,7 +7,7 @@
     const btn = document.createElement("button");
     btn.className = "tab-btn";
     btn.dataset.target = cat.id;
-    btn.innerHTML = `<span class="tab-icon">${cat.icon}</span> ${cat.label}`;
+    btn.innerHTML = `<span class="tab-icon">${cat.icon}</span><span class="tab-label">${cat.label}</span>`;
     tabBar.appendChild(btn);
   });
 

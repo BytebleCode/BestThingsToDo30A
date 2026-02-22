@@ -66,11 +66,12 @@ a {
 }
 
 .tab-btn {
-  flex: 0 0 auto;
+  flex: 1 0 auto;
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 6px;
-  padding: 0 20px;
+  padding: 0 14px;
   height: var(--nav-height);
   min-height: 44px;
   border: none;
@@ -94,8 +95,12 @@ a {
   border-bottom-color: var(--ocean);
 }
 
+.tab-label {
+  display: none;
+}
+
 .tab-icon {
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--driftwood);
 }
 
@@ -277,6 +282,13 @@ a {
 
 /* ===== Responsive: Tablet ===== */
 @media (min-width: 600px) {
+  .tab-label {
+    display: inline;
+  }
+
+  .tab-icon {
+    font-size: 1rem;
+  }
   .card-grid {
     grid-template-columns: repeat(2, 1fr);
   }
