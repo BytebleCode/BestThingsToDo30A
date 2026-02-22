@@ -9,28 +9,28 @@ const CATEGORIES = [
         photo: "images/old-fish-house.jpg",
         price: "$$",
         description: "Lunch & dinner. Seafood and sushi with a great lake view and sunsets. Lots of outdoor seating under the cafe lights in Seagrove. Closest to house.",
-        url: "https://www.theoldfishhouse.com"
-      },
-      {
-        name: "Beachy Bean",
-        photo: "images/beachy-bean.png",
-        price: "$",
-        description: "Breakfast & lunch. Coffee shop in Seagrove, shares outside space with Old Fish House. Closest to house.",
-        url: "https://www.beachybean.com"
-      },
-      {
-        name: "Mi Casita",
-        photo: "images/MiCasitas.jpg",
-        price: "$",
-        description: "Lunch & dinner. A local favorite Mexican spot near the heart of Seaside with authentic food and unbeatable 30A prices.",
-        url: "https://www.micasita30a.com"
+        url: "https://www.oldfloridafishhouse.com"
       },
       {
         name: "Piscado Seafood & Rooftop Bar",
         photo: "images/pescado.webp",
         price: "$$",
         description: "Dinner (sometimes brunch & lunch), reservations needed. Fine dining and wines with a great rooftop view in Rosemary Beach. Romantic, great for a date or adult evening out.",
-        url: "https://www.piscado30a.com"
+        url: "https://rooftop30a.com"
+      },
+      {
+        name: "Beachy Bean",
+        photo: "images/beachy-bean.png",
+        price: "$",
+        description: "Breakfast & lunch. Coffee shop in Seagrove, shares outside space with Old Fish House. Closest to house.",
+        url: "https://www.coastside30a.com"
+      },
+      {
+        name: "Mi Casita",
+        photo: "images/MiCasitas.jpg",
+        price: "$",
+        description: "Lunch & dinner. A local favorite Mexican spot near the heart of Seaside with authentic food and unbeatable 30A prices.",
+        url: "https://www.micasitamexicangrillfl.com"
       },
       {
         name: "Bud & Alley's",
@@ -114,21 +114,21 @@ const CATEGORIES = [
         photo: "images/crackings.jpg",
         price: "$",
         description: "Breakfast & lunch in Grayton.",
-        url: "https://www.crackings.com"
+        url: "https://www.crackingsfl.com"
       },
       {
         name: "Surfing Deer",
         photo: "images/surfing-deer.webp",
         price: "$$",
         description: "Fine dining in Seagrove.",
-        url: "https://www.thesurfingdeer.com"
+        url: "https://surfingdeer.com"
       },
       {
         name: "FOOW (Fish Out of Water)",
         photo: "images/foow.webp",
         price: "$-$$",
         description: "Southern style with great views in WaterColor.",
-        url: "https://www.watercolorresort.com/dine/fish-out-of-water"
+        url: "https://www.dinefish30a.com"
       },
       {
         name: "Red Fish Taco",
@@ -149,7 +149,7 @@ const CATEGORIES = [
         photo: "images/blue-mtn-creamery.webp",
         price: "$",
         description: "Local ice cream in Blue Mountain.",
-        url: "https://www.bluemountaincreamery.com"
+        url: "https://bluemountainbeachcreamery.com"
       }
     ]
   },
@@ -187,7 +187,7 @@ const CATEGORIES = [
         name: "Seagrove Beach",
         photo: "images/Seagrove-Beach.jpg",
         description: "A charming, laid-back stretch of sugar-white sand tucked between Seaside and Rosemary Beach.",
-        url: "https://www.visitsouthwalton.com/seagrove-beach"
+        url: "https://www.visitsouthwalton.com/neighborhoods/seagrove/"
       },
       {
         name: "Seaside Beach",
@@ -211,7 +211,7 @@ const CATEGORIES = [
         name: "Blue Mountain Beach",
         photo: "images/Bluemountain-Beach.jpg",
         description: "The highest elevation on the Gulf Coast,gorgeous dunes and a chill local vibe.",
-        url: "https://www.visitsouthwalton.com/blue-mountain-beach"
+        url: "https://www.visitsouthwalton.com/neighborhoods/blue-mountain/"
       },
       {
         name: "Inlet Beach",
@@ -315,7 +315,7 @@ const CATEGORIES = [
         name: "Beach Yoga",
         photo: "images/beach-yoga.jpg",
         description: "Enjoy a private yoga class right on the beach. $150 and up.",
-        url: "https://www.BeachYoga30a.com"
+        url: "https://www.beachyoga30-a.com"
       },
       {
         name: "Sandcastle Lessons",
