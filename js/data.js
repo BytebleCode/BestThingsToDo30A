@@ -64,7 +64,7 @@ const CATEGORIES = [
         name: "George's at Alys Beach",
         photo: "images/georges.png",
         price: "$-$$",
-        description: "Lunch & dinner (sometimes brunch). Seafood with covered outside seating, great for people watching in the beautiful Alys Beach area.",
+        description: "Lunch & dinner (sometimes brunch). Seafood with covered outside seating, great for upscale relaxing in the beautiful Alys Beach area.",
         url: "https://www.georgesatalysbeach.com"
       },
       {
